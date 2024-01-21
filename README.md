@@ -10,5 +10,6 @@ echo "deep-learning-in-python" > .python-version
 Install pytorch following the instructions from https://pipenv.pypa.io/en/latest/indexes.html:
 ```
 pip install pipenv
+pipenv install numpy
 pipenv install torch torchvision torchaudio --index=pytorch
 ```

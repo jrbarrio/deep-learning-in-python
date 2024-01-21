@@ -37,6 +37,7 @@ name = ""
 torch = {version = "*", index = ""}
 torchvision = {version = "*", index = ""}
 torchaudio = {version = "*", index = ""}
+numpy = "*"
 
 [dev-packages]
 
