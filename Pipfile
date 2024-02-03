@@ -39,6 +39,7 @@ torchvision = {version = "*", index = ""}
 torchaudio = {version = "*", index = ""}
 numpy = "*"
 pandas = "*"
+torchmetrics = "*"
 
 [dev-packages]
 
