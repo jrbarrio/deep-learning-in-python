@@ -14,4 +14,5 @@ pipenv install numpy pandas
 pipenv install torch torchvision torchaudio --index=pytorch
 pipenv install torchmetrics
 pipenv install matplotlib
+pipenv install pillow
 ```
