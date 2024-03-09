@@ -11,8 +11,9 @@ Install pytorch following the instructions from https://pipenv.pypa.io/en/latest
 ```
 pip install pipenv
 pipenv install numpy pandas
-pipenv install torch torchvision torchaudio --index=pytorch
+pipenv install torch torchvision torchaudio torchtext --index=pytorch
 pipenv install torchmetrics
 pipenv install matplotlib
 pipenv install pillow
+pipenv install nltk
 ```

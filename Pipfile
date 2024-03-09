@@ -33,15 +33,37 @@ url = "pytorch"
 verify_ssl = true
 name = ""
 
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
 [packages]
-torch = {version = "*", index = ""}
-torchvision = {version = "*", index = ""}
-torchaudio = {version = "*", index = ""}
 numpy = "*"
 pandas = "*"
 torchmetrics = "*"
 matplotlib = "*"
 pillow = "*"
+torch = {version = "*", index = ""}
+torchvision = {version = "*", index = ""}
+torchaudio = {version = "*", index = ""}
+torchtext = {version = "*", index = ""}
+nltk = "*"
 
 [dev-packages]
 
