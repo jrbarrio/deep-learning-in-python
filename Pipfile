@@ -64,6 +64,7 @@ torchvision = {version = "*", index = ""}
 torchaudio = {version = "*", index = ""}
 torchtext = {version = "*", index = ""}
 nltk = "*"
+scikit-learn = "*"
 
 [dev-packages]
 

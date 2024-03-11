@@ -16,4 +16,5 @@ pipenv install torchmetrics
 pipenv install matplotlib
 pipenv install pillow
 pipenv install nltk
+pipenv install scikit-learn
 ```
