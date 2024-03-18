@@ -65,6 +65,8 @@ torchaudio = {version = "*", index = ""}
 torchtext = {version = "*", index = ""}
 nltk = "*"
 scikit-learn = "*"
+transformers = "*"
+sentencepiece = "*"
 
 [dev-packages]
 
